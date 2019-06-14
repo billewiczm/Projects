@@ -1,5 +1,7 @@
 package SaveMoney;
 
+//This project allows you to estimate your money savings in time based on certain criteria.
+
 import java.util.Scanner;
 
 public class SaveMoney {
